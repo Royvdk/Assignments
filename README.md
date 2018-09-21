@@ -8,7 +8,8 @@ https://github.com/Royvdk/Assignments/blob/master/Graded_assignment_2%20(1).ipyn
  # Exam R
  https://github.com/Royvdk/Assignments/blob/master/Exam_student%20(1)%20(2).ipynb
  
- Second exam:
+ Second exam: 
+ https://github.com/Royvdk/Assignments/blob/master/Rplot.png
  
  # Exam Python
  https://github.com/Royvdk/Assignments/blob/master/exam_june_7_2018%20(2)%20(1).ipynb
